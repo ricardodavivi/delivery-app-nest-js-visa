@@ -1,0 +1,1 @@
+{"version":3,"file":"delivery.schema.js","sourceRoot":"","sources":["../../../src/delivery/schemas/delivery.schema.ts"],"names":[],"mappings":";;;AAAA,qCAAqC;AAExB,QAAA,cAAc,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IAC9C,YAAY,EAAE,MAAM;IACpB,cAAc,EAAE,MAAM;IACtB,IAAI,EAAE,OAAO;IACb,KAAK,EAAE,MAAM;CAChB,CAAC,CAAC"}
